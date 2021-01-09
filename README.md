@@ -29,4 +29,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 [参考二](https://z.cbndata.com/2019-nCoV/index.html?from=groupmessage&isappinstalled=0&scene=2&clicktime=1581083959&enterid=1581083959&timestamp=1581559398878)
 [网易疫情](https://news.163.com/special/epidemic/)
 
-有朋友想学开发的找我啊，qq:389431611
+有朋友想学开发的找我啊，qq:1956798200
